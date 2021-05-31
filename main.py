@@ -17,7 +17,6 @@ def check_win(m, sign):
     if zero == 0:
         return "Ничья"
     return False
-
 root = Tk()
 root.title('Крестики-нолики')
 root.resizable(0, 0)
